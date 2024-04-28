@@ -1,0 +1,54 @@
+{
+  "territories": [
+    {
+      "id": 1,
+      "name": "India",
+      "parentId": 0
+    },
+    {
+      "id": 2,
+      "name": "Kerala",
+      "parentId": 1
+    },
+    {
+      "id": 3,
+      "name": "Trivandrum",
+      "parentId": 2
+    },
+    {
+      "id": 4,
+      "name": "Tamil Nadu",
+      "parentId": 1
+    },
+    {
+      "id": 5,
+      "name": "Chennai",
+      "parentId": 4
+    },
+    {
+      "id": 6,
+      "name": "Karnataka",
+      "parentId": 1
+    },
+    {
+      "id": 7,
+      "name": "Bangalore",
+      "parentId": 6
+    },
+    {
+      "id": 8,
+      "name": "Maharashtra",
+      "parentId": 1
+    },
+    {
+      "id": 9,
+      "name": "Mumbai",
+      "parentId": 8
+    },
+    {
+      "id": 10,
+      "name": "Pune",
+      "parentId": 8
+    }
+  ]
+}
